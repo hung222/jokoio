@@ -1,0 +1,2 @@
+# jokoio
+làm django
